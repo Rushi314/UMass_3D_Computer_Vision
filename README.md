@@ -1,1 +1,1 @@
-Assignments and Reaction Reports for 3D Vision Course (Intelligent Visual Computing)
+This repository contains solved assignments and Reaction Reports for 3D Vision Course (Intelligent Visual Computing) at University of Massachusetts Amherst. This course was taken by Professor Evangelos Kolegarakis.
